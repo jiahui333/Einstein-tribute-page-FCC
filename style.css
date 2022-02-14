@@ -1,0 +1,19 @@
+#image{
+  width: 100%;
+  height: auto;
+  max-width:100%;
+  display: block;
+  margin: auto;
+}
+
+#img-caption{
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+#main{
+  width: 80%;
+  margin: auto;
+  text-align: left;
+}
+
